@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## 📊 Receita por Mês
 
-![Receita por Mês](https://raw.githubusercontent.com/Lengola/analise_vendas_2024/main/imgs/receita_mensal.png)
+![Receita Mensal](https://raw.githubusercontent.com/Lengola/Analise_de_dado_2024/main/imgs/receita_mensal.png)
 
 
 ## Execução
