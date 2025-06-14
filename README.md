@@ -54,5 +54,5 @@ jupyter notebook notebooks/analise_vendas.ipynb
 **Lengola Simão Ndolokelu**  
 Desenvolvedor de Software|Ciêntista de Dados | Full Stack Junior |Analista BI  
 📧 Email: lengolasimaoglodilson@gmail.com  
-🌍 LinkedIn: [linkedin.com/in/lengola](https://www.linkedin.com/in/lengola-sim%C3%A3o-b57827182/)  
-🐙 GitHub: [github.com/lengola](https://github.com/Lengola)
+🌍 LinkedIn: [linkedin.com/in/lengola](https://github.com/Lengola)  
+🐙 GitHub: [github.com/lengola](https://www.linkedin.com/in/lengola-sim%C3%A3o-b57827182/)
